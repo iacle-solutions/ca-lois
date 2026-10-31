@@ -1,4 +1,4 @@
-# ca-law-fr — Recherche de lois canadiennes (version française)
+# ca-lois — Recherche de lois canadiennes (version française)
 
 **Parseurs verbatim pour Hermes Agent.** Aucune interprétation LLM — chaque adaptateur récupère la source officielle, la met en cache, et retourne le texte exact des sections avec les URLs sources.
 
